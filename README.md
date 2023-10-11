@@ -5,43 +5,54 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
+* [Research Flow](#research-flow)
 * [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- Project Background
+  - LendingClub is a financial services company headquartered in San Francisco, California. It was the first peer-to-peer lender to register its offerings as securities with the Securities and Exchange Commission, and to offer loan trading on a secondary market. so When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile.    
+- Business Problem
+  - In this case study, we used EDA to understand how consumer attributes and loan attributes influence the tendency of default.
+    - If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company.
+    - If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company.
+- Dataset used
+  - Firm's proprietary lending record ranging from 2007-2011
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+## Research Flow
+- Data understanding and manipulation
+  - Deletion of Null valued columns
+  - Deletion of Single Valued columns
+  - Appropriate feature selection after deeletion of unnecessary columns
+  - Identification of missing values
+  - Appropriate treatement of missing values
+- Standardization of columns
+- Outlier Identification and their treatment
+- Analysis
+  - Univariate Analysis
+    - Univariate analysis of some categorical columns
+    - Corelation finding between Numeric columns
+    - Categorization of some Numeric columns (Binning method)
+    - Deriving some required features from the given features
+  - Multivariate Analysis
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Numpy - version 1.23.5
+- Pandas - version 1.5.3
+- Matplotlib - version 3.7.1
+- Seaborn - version 0.12.2
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
-## Contact
-Created by [@githubusername] - feel free to contact me!
+- This project was inspired by UpGrad and IIIT Banglore
 
 
 <!-- Optional -->
