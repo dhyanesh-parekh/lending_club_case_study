@@ -7,8 +7,8 @@
 * [Research Flow](#research-flow)
 * [Technologies Used](#technologies-used)
 * [Acknowledgements](#acknowledgements)
+* [Contributors](#contributors)
 
-<!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
 - Project Background
@@ -20,7 +20,6 @@
 - Dataset used
   - Firm's proprietary lending record ranging from 2007-2011
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Research Flow
 - Data understanding and manipulation
@@ -39,8 +38,6 @@
     - Deriving some required features from the given features
   - Multivariate Analysis
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
 
 ## Technologies Used
 - Numpy - version 1.23.5
@@ -48,15 +45,12 @@
 - Matplotlib - version 3.7.1
 - Seaborn - version 0.12.2
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Giving credits here.
 - This project was inspired by [UpGrad](https://ww2.upgrad.com/?_gl=1*1a6yjvu*_ga*MTY4NTk0NDA2Ny4xNjk4MDg2ODEw*_ga_HVXPGHVCS0*MTY5ODA4NjgwOS4xLjAuMTY5ODA4NjgwOS42MC4wLjA.&user_uuid=478408e8-483a-4336-8184-9025c279e0af&combination_id=2) and [IIIT Banglore](https://www.iiitb.ac.in/)
 
 
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+## Contributors
+- [@Ritam_Kishore](https://github.com/dk2302)
+- [@Dhyanesh_Parekh](https://github.com/dhyanesh-parekh)
