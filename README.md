@@ -52,7 +52,7 @@
 
 ## Acknowledgements
 Giving credits here.
-- This project was inspired by [UpGrad](#https://ww2.upgrad.com/?_gl=1*1a6yjvu*_ga*MTY4NTk0NDA2Ny4xNjk4MDg2ODEw*_ga_HVXPGHVCS0*MTY5ODA4NjgwOS4xLjAuMTY5ODA4NjgwOS42MC4wLjA.&user_uuid=478408e8-483a-4336-8184-9025c279e0af&combination_id=2) and [IIIT Banglore](#https://www.iiitb.ac.in/)
+- This project was inspired by [UpGrad](https://ww2.upgrad.com/?_gl=1*1a6yjvu*_ga*MTY4NTk0NDA2Ny4xNjk4MDg2ODEw*_ga_HVXPGHVCS0*MTY5ODA4NjgwOS4xLjAuMTY5ODA4NjgwOS42MC4wLjA.&user_uuid=478408e8-483a-4336-8184-9025c279e0af&combination_id=2) and [IIIT Banglore](https://www.iiitb.ac.in/)
 
 
 <!-- Optional -->
