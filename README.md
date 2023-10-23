@@ -26,7 +26,7 @@
 - Data understanding and manipulation
   - Deletion of Null valued columns
   - Deletion of Single Valued columns
-  - Appropriate feature selection after deeletion of unnecessary columns
+  - Appropriate feature selection after deletion of unnecessary columns
   - Identification of missing values
   - Appropriate treatement of missing values
 - Standardization of columns
